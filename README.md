@@ -3,4 +3,5 @@
 基于Easyx
 
 项目截图
+<img src="snake.png" />
 
